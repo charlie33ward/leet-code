@@ -8,7 +8,7 @@
 **Arrays & Hashing**
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
-| 1. [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Easy | ✅ | [Python]() |
+| 1. [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/contains_duplicate.py) |
 | 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  |  |
 | 3. [Two Sum](https://neetcode.io/problems/two-integer-sum) | Easy |  |  |
 | 4. [Group Anagrams](https://neetcode.io/problems/anagram-groups) | Medium |  |  |
