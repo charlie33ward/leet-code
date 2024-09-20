@@ -16,7 +16,7 @@
 | 5. [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | Medium |  |  |
 | 6. [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | Medium |  |  |
 | 7. [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | Medium |  |  |
-| 8. [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | Medium |  |  |
+| 8. [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/valid_sudoku.py) |
 | 9. [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | Medium |  |  |
 
 **Two Pointers**
