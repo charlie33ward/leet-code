@@ -42,7 +42,7 @@
 **Binary Search**
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
-| 1. [Binary Search](https://neetcode.io/problems/binary-search) | Easy |  |  |
+| 1. [Binary Search](https://neetcode.io/problems/binary-search) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/binary_search.py) |
 | 2. [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix) | Medium |  |  |
 | 3. [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas) | Medium |  |  |
 | 4. [Find Minimum in Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | Medium |  |  |
