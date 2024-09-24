@@ -13,7 +13,7 @@
 | 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  |  |
 | 3. [Two Sum](https://neetcode.io/problems/two-integer-sum) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/two_sum.py) |
 | 4. [Group Anagrams](https://neetcode.io/problems/anagram-groups) | Medium |  |  |
-| 5. [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | Medium |  |  |
+| 5. [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/top_k_frequent.py) |
 | 6. [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | Medium |  |  |
 | 7. [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | Medium |  |  |
 | 8. [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/valid_sudoku.py) |
