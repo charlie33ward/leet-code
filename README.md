@@ -65,6 +65,22 @@
 **Linked List**
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
+| 1. Reverse Linked List | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/reverse_linked_list.py) |
+| 2. Merge Two Sorted Lists | Easy |  |  |
+| 3. Reorder List | Medium |  |  |
+| 4. Remove Nth Node From End of List | Medium |  |  |
+| 5. Copy List With Random Pointer | Medium |  |  |
+| 6. Add Two Numbers | Medium |  |  |
+| 7. Linked List Cycle | Easy |  |  |
+| 8. Find the Duplicate Number | Medium |  |  |
+| 9. LRU Cache | Medium |  |  |
+| 10. Merge K Sorted Lists | Hard |  |  |
+| 11. Reverse Nodes in K Group | Hard |  |  |
+
+
+**Linked List**
+| Name of Question | Difficulty | Completion Status | Solution | 
+| ----- | ----- | ----- | ----- |
 | 1.  |  |  |  |
 | 2.  |  |  |  |
 | 3.  |  |  |  |
@@ -72,3 +88,7 @@
 | 5.  |  |  |  |
 | 6.  |  |  |  |
 | 7.  |  |  |  |
+| 8.  |  |  |  |
+| 9.  |  |  |  |
+| 10.  |  |  |  |
+| 11.  |  |  |  |
