@@ -34,7 +34,7 @@
 | 1. [Valid Parentheses](https://neetcode.io/problems/validate-parentheses) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/valid_parentheses.py) |
 | 2. [Min Stack](https://neetcode.io/problems/minimum-stack) | Medium |  |  |
 | 3. [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | Medium |  |  |
-| 4. [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | Medium |  |  |
+| 4. [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/generate_parentheses.py) |
 | 5. [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/daily_temperatures.py) |
 | 6. [Car Fleet](https://neetcode.io/problems/car-fleet) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/car_fleet.py) |
 | 7. [Largest Rectangle in Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram) | Hard |  |  |
