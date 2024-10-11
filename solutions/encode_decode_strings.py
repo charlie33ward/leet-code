@@ -25,7 +25,7 @@ class Solution:
             while str[j] != "#":
                 j += 1
             length = int(str[i:j])
-            res.append(str[[j + 1] : j + 1 + length])
+            res.append(str[j + 1 : j + 1 + length])
             i = j + 1 + length
 
         return res
