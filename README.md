@@ -17,7 +17,7 @@
 | 6. [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/encode_decode_strings.py) |
 | 7. [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/product_of_array_except_self.py) |
 | 8. [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/valid_sudoku.py) |
-| 9. [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | Medium |  |  |
+| 9. [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/longest_consecutive_sequence.py) |
 
 **Two Pointers**
 | Name of Question | Difficulty | Completion Status | Solution | 
