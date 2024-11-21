@@ -26,7 +26,7 @@
 | 2. [Two Sum II Input Array Is Sorted](https://neetcode.io/problems/two-integer-sum-ii) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/two_sum_ii.py) |
 | 3. [Three Integer Sum](https://neetcode.io/problems/three-integer-sum) | Medium | ✅ | (https://github.com/charlie33ward/leet-code/blob/main/solutions/three_int_sum.py) |
 | 4. [Container With Most Water](https://neetcode.io/problems/max-water-container) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/max_water_container.py) |
-| 5. [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water) | Hard |  |  |
+| 5. [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water) | Hard | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/trapping_rain_water.py) |
 
 **Stack**
 | Name of Question | Difficulty | Completion Status | Solution | 
