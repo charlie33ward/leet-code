@@ -32,7 +32,7 @@
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
 | 1. [Valid Parentheses](https://neetcode.io/problems/validate-parentheses) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/valid_parentheses.py) |
-| 2. [Min Stack](https://neetcode.io/problems/minimum-stack) | Medium |  |  |
+| 2. [Min Stack](https://neetcode.io/problems/minimum-stack) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/minimum_stack.py) |
 | 3. [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | Medium |  |  |
 | 4. [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/generate_parentheses.py) |
 | 5. [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/daily_temperatures.py) |
