@@ -37,7 +37,7 @@
 | 4. [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/generate_parentheses.py) |
 | 5. [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/daily_temperatures.py) |
 | 6. [Car Fleet](https://neetcode.io/problems/car-fleet) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/car_fleet.py) |
-| 7. [Largest Rectangle in Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram) | Hard |  |  |
+| 7. [Largest Rectangle in Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram) | Hard | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/largest_rect_in_histogram.py) |
 
 **Binary Search**
 | Name of Question | Difficulty | Completion Status | Solution | 
