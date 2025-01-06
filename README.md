@@ -43,7 +43,7 @@
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
 | 1. [Binary Search](https://neetcode.io/problems/binary-search) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/binary_search.py) |
-| 2. [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix) | Medium |  |  |
+| 2. [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/searchMatrix.py) |
 | 3. [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas) | Medium | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/eating_bananas.py) |
 | 4. [Find Minimum in Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | Medium |  |  |
 | 5. [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array) | Medium |  |  |
