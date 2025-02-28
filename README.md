@@ -54,7 +54,7 @@
 **Sliding Window**
 | Name of Question | Difficulty | Completion Status | Solution | 
 | ----- | ----- | ----- | ----- |
-| 1. [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto) | Easy |  |  | 
+| 1. [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto) | Easy | ✅ | [Python](https://github.com/charlie33ward/leet-code/blob/main/solutions/buy_and_sell_stock.py) | 
 | 2. [Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates) | Medium |  |  |
 | 3. [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement) | Medium |  |  |
 | 4. [Permutation in String](https://neetcode.io/problems/permutation-string) | Medium |  |  |
